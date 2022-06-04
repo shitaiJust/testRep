@@ -3,3 +3,14 @@
 	 color:red;
 	 background-color: black;
  }
+ div
+ {
+	 border: 10px solid gray;
+	 border-radius:5px;
+	 margin:5px;
+ }
+ h2
+ {
+	 color:green;
+	 margin:10px;
+ }
